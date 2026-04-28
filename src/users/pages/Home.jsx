@@ -6,7 +6,7 @@ import { FaMagnifyingGlass } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 import { latestBookApi } from '../../services/allApis';
 import { useContext } from 'react';
-import { searchContext } from '../../contextApi/contextApi';
+import { searchContext } from '../../contextApi/ContextApi';
 
 function Home() {
 
