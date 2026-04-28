@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState , useEffect } from 'react'
-import AdminHeader from '../components/Adminheader'
+import AdminHeader from '../components/AdminHeader'
 import AdminSidebar from '../components/AdminSidebar'
 import Footer from '../../components/Footer'
 import { RiImageEditLine } from "react-icons/ri";
