@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import { GoogleOAuthProvider } from '@react-oauth/google';
-import ContextApi from './contextApi/contextApi.jsx'
+import ContextApi from './contextApi/ContextApi.jsx'
 import AuthContextApi from './contextApi/AuthContextApi.jsx'
 
 createRoot(document.getElementById('root')).render(
