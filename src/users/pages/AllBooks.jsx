@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import Footer from "../../components/Footer";
 import { Link } from "react-router-dom";
 import { useContext } from "react";
-import { searchContext } from "../../contextApi/contextApi";
+import { searchContext } from "../../contextApi/ContextApi";
 import { allBooksApi } from "../../services/allApis";
 
 function AllBooks() {
